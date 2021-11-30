@@ -1,5 +1,6 @@
 ### Hello, I'm Rod ( 🦆 )
 
+![](https://c.tenor.com/-TU0TOfYWAMAAAAC/ducky-waddle.gif)
 <!--
 **rodlalama/rodlalama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
